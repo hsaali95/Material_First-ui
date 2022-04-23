@@ -1,0 +1,56 @@
+.font_color{
+    color: #c2c2d6;
+    font-weight: bold !important;
+}
+.bordr_class{
+    border: 2px solid #c2c2d6;
+}
+.confirm_button{
+    color:white;
+    border: 2px solid #ff9900 ;
+    border-radius: 50px;
+    width: 313px;
+    background-color: #ff9900 !important;
+}
+.dash_board_heading{
+    background-color: #006666;
+    width: 100%;
+}
+.main_box_Card{
+    height: 268px !important;
+    border: 2px solid  #3366ff;
+    width: 396px ;
+    border-radius: 10px;
+    padding: 16px;
+    /* margin-left: 10px; */
+    background-color: #006666;
+    /* background: linear-gradient(92.91deg, rgba(19, 22, 30, 0.76) 1.78%, rgba(19, 22, 30, 0.62) 99.64%); */
+}
+.sub_box_card{
+    background: transparent;
+    
+}
+.Box_header{
+    display: flex;
+    justify-content: space-between;
+}
+.button_styling{
+    border-radius: 15px !important;
+    width: 100% !important;
+    height: 33px !important ;
+    cursor: pointer !important;
+    font-size: 15px !important;
+    font-weight: bolder !important;
+}
+.box_border_style{
+    align-items: center;
+    border: 1px solid wheat;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    height: 120px;
+    justify-content: center;
+    padding: 10px;
+    /* width: 100%; */
+    
+}
